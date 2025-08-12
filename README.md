@@ -1,3 +1,5 @@
+### Simple Langchain Application using OpenAI and Ollama
+
 ## Setting Up environment
 
 1.Run below command to create python environment
