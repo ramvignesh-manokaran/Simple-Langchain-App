@@ -18,6 +18,8 @@ conda activate venv/
 pip install -r requirements.txt
 ```
 
+5. Create an .env file with below keys before executing ipynb files. OPENAI_API_KEY="" LANGCHAIN_API_KEY="" LANGCHAIN_PROJECT=""
+
 Optional:
 
 1. Can run app.py via stremlit using below command from respective folder.
