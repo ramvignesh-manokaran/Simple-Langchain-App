@@ -17,3 +17,10 @@ conda activate venv/
  ```bash
 pip install -r requirements.txt
 ```
+
+Optional:
+
+1. Can run app.py via stremlit using below command from respective folder.
+```bash
+streamlit run app.py
+```
