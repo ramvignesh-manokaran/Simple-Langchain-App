@@ -1,0 +1,8 @@
+langchain ## for general components
+langchain_openai ## for OpenAI integration
+python-dotenv ## for loading environment variables
+langchain_community ## for community-driven components
+beautifulsoup4 ## for web scraping
+langchain_community ## for community-driven components
+faiss-cpu ## for vector store
+streamlit ## for web app framework
