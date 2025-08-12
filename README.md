@@ -1,4 +1,4 @@
-### Simple Langchain Application using OpenAI and Ollama
+# Simple Langchain Application using OpenAI and Ollama
 
 ## Setting Up environment
 
